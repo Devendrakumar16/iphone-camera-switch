@@ -246,6 +246,10 @@
 				DEVELOPMENT_TEAM = ANQLE8XP6Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Camera access is needed to record 4K 60fps video.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Microphone access is needed to record audio with video.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Photo Library access is needed to save your recorded video.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Photo Library access is needed to save your recorded video.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -278,6 +282,10 @@
 				DEVELOPMENT_TEAM = ANQLE8XP6Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Camera access is needed to record 4K 60fps video.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Microphone access is needed to record audio with video.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Photo Library access is needed to save your recorded video.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Photo Library access is needed to save your recorded video.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
